@@ -1,0 +1,517 @@
+commit b8f3caf7d1c79fa990af116f69718033f87b8893
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Dec 12 11:49:23 2024 -0500
+
+    added test back
+
+commit ba1b8ad52e1523cf13704a467175f61a6342f105
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Dec 12 11:48:02 2024 -0500
+
+    added docs
+
+commit 602bf5e1e6a3f3e4c32e022e33e02a62b8ed0bb4
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Dec 12 11:46:26 2024 -0500
+
+    updated csvs
+
+commit c6105a183e0aa8ee95c845693d1f28937595419d
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Dec 12 11:40:58 2024 -0500
+
+    added ~printer
+
+commit 0e590b80e83e89bb00faf4e01a212ef8266c61b0
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Dec 12 11:21:57 2024 -0500
+
+    YAML update (need to update demo vid)
+
+commit 26369487491e3819c9073706248576b21c818baf
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Thu Dec 12 11:09:59 2024 -0500
+
+    Authors.md update
+
+commit 8083ad05b88ac4892d049056465f2510a6d899df
+Author: Kenza <kd497@cornell.edu>
+Date:   Thu Dec 12 10:08:27 2024 -0500
+
+    Increased coverage for game:
+    Moved functions from game file to driver program
+
+commit 48109b59029506f0083498a2f9b9c5c6fd386487
+Author: Kenza <kd497@cornell.edu>
+Date:   Thu Dec 12 01:21:16 2024 -0500
+
+    Increased Bisect coverage by moving untestable functions from Flashcards set to the driver program:
+    Increased test
+
+commit c7f530b23a8c955ecffb7c26d45abb560ff574cf
+Author: Kenza <kd497@cornell.edu>
+Date:   Thu Dec 12 01:18:47 2024 -0500
+
+    Increased Bisect coverage by moving untestable functions from Flashcards set to the driver program:
+    Moved functions
+    Ensured functionality
+
+commit 1e11a0fc5cb5c008bc8d10ba61f44aac27df3b63
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 23:53:21 2024 -0500
+
+    bug fixes in tests
+
+commit ce43b7895e8f20528b63c2a13bf08abcd0e896d0
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 21:04:32 2024 -0500
+
+    rm commented out stuff
+
+commit c1847e1df700f4fbe799aa6a7f097ecbce02e59d
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 20:58:03 2024 -0500
+
+    added tests for edge cases game over
+
+commit 3e1c17682e110fe6989fc58cab2d8dc947f0c412
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 20:46:25 2024 -0500
+
+    added tests
+
+commit df27705053c3bd18c133d037f33d5de336365fcc
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Wed Dec 11 17:25:29 2024 -0500
+
+    Add progress feature
+
+commit 78bdd3fb87b3f4ef1e65172cb995b7cd0eb64dc2
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Wed Dec 11 15:33:08 2024 -0500
+
+    Add test cases for high score and add a new option for returning to the main menu
+
+commit 3c290f10c887ec129d45799825e39b899af07b01
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 01:01:17 2024 -0500
+
+    added tests
+
+commit 25ec9ff14f7b74d38e290361285da7a15b93363f
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 00:56:19 2024 -0500
+
+    Flashcard uses buffer
+
+commit 84d572920ba27046453406c423b6c7b9a641502c
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 00:43:01 2024 -0500
+
+    test no flashcard - weird bug
+
+commit c5f0f4ee2895ee40b9ff53d377e10cb9b19f9593
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 00:33:31 2024 -0500
+
+    passed 80% for flashcard
+
+commit 4e6b765e06d5f450093b6956357522fd3a76afdf
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Dec 11 00:13:07 2024 -0500
+
+    preview update, game code to driver
+
+commit 3a958568509de8da8b2105e5216543e11b80a8e8
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 20:59:46 2024 -0500
+
+    UI updates to gravity game and
+
+commit e1e44159d856a9a2d84bad0f7ed0dc14490d1d24
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 20:20:28 2024 -0500
+
+    more functionality
+
+commit 26cf49b050c3f846fb0a44c04c886dabcf09fff6
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Tue Dec 10 18:13:26 2024 -0500
+
+    Add high score funtionality
+
+commit da98e226b036d5d9e2bbf4744b30075ee1d6d5bf
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 18:02:28 2024 -0500
+
+    Revert "Implemented more functionality - needs to be tested"
+    
+    This reverts commit a74163abec839e14e2de7d9b001f68dacd505971.
+
+commit a74163abec839e14e2de7d9b001f68dacd505971
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 17:45:49 2024 -0500
+
+    Implemented more functionality - needs to be tested
+
+commit 976ac600b0f1316140bc582a94424ed9d0cb5f27
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 17:29:22 2024 -0500
+
+    enhanced UI for driver
+
+commit 3486e886b89389dcc1cd7d79e81a3d3d2f0ed2ae
+Author: Kenza <kd497@cornell.edu>
+Date:   Tue Dec 10 17:11:25 2024 -0500
+
+    Edited the test file
+
+commit 36accb1fe1827bc6ba9de857bd4ac57b4680119a
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 16:59:10 2024 -0500
+
+    removed lib outside
+
+commit 659291d27fa9127057e281991c4eb1f0f2360cc7
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Tue Dec 10 16:56:32 2024 -0500
+
+    Add more tests for Asteroid
+
+commit a1d4f47e111af5c98ff48c94d3b5ff5b90c7db80
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 16:49:43 2024 -0500
+
+    CSV
+
+commit 9e479b4cdfc4a0c04f6399c3b0a39e57b6120e43
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 16:41:43 2024 -0500
+
+    Implemented and refactored search and stuff
+
+commit 96b8da0bc1694124c8a11f2c39f123116b08aa32
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 16:30:58 2024 -0500
+
+    Refactored flashcard
+
+commit 118f6fc414aa83ae0d9310e3278ec2aafd8d4bc4
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 15:36:38 2024 -0500
+
+    changed margins
+
+commit f5987edbf7c4b5bdac701033820a9e3c557cc0e0
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Tue Dec 10 15:22:13 2024 -0500
+
+    Add search function
+
+commit 64a9a744121961d30bb5299c34adebc4662e745f
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 15:11:45 2024 -0500
+
+    rm
+
+commit f220fd6d78aa8f21906e145faa11205e37b29cb6
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 15:03:10 2024 -0500
+
+    Board coverage now to 100%
+
+commit 0ff58cf42801bb919c773ad16a4a0e7468542e89
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Dec 10 14:52:41 2024 -0500
+
+    gravity game works
+
+commit f72a283e21622dbb9b2e8d3d8566c1ae7c826ba7
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Tue Dec 10 13:39:01 2024 -0500
+
+    Just fixing csv for testing
+
+commit 3067f3e0dd05ed55be1ff344253b42eb9f2a9550
+Author: Kenza <kd497@cornell.edu>
+Date:   Tue Dec 10 13:22:09 2024 -0500
+
+    Implemented more tests across board, asteroid and flashcard modules:
+    Increased test coverage
+    Removed duplicated test code
+
+commit 0edb651ccf00ec299ff636df73b7a807d8f7d2d7
+Author: Kenza <kd497@cornell.edu>
+Date:   Wed Dec 4 21:20:07 2024 -0500
+
+    Edited the test file
+
+commit 05732a99a55b68381a8aa3cd692dc84c975abf07
+Author: Kenza <kd497@cornell.edu>
+Date:   Wed Dec 4 20:38:01 2024 -0500
+
+    Tested for board:
+    Wrote tests for board and asteroids as well as flashcards
+    Conducted a Bisect coverage testing to determine the lines of code that are not covered by tests yet
+
+commit b5698bc323d53d607fd79ead9bd1e89ec4563c20
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Mon Dec 2 13:44:56 2024 -0500
+
+    add settings.json
+
+commit 545b7a548909a64cd67523d85fa5fbe9a2a8aba0
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Mon Dec 2 13:07:24 2024 -0500
+
+    Implemented more qol changes to main
+    
+    - user can now see empty flashcard sets before entering
+    - user can exit from flashcard manager
+
+commit 042ec3a3e2ab7a29e4aa1c280ccc0c5263f5c4f8
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Mon Dec 2 12:36:37 2024 -0500
+
+    Implemented slight QOL change for selecting flashcard sets
+    
+    - User can now see available options for flashcard sets before entering
+
+commit d7aef78328af05a0d0f70fd2184f4b72b68aa283
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Sun Dec 1 16:12:21 2024 -0500
+
+    add test cases
+
+commit 40046a0fba05c575f0d186e72ff1b8a8c566d289
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Nov 28 21:08:09 2024 -0500
+
+    gravity game bug fixes
+
+commit 2c1c26c213ec167e18c7725c238a9c0ad8b47b03
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Thu Nov 28 20:49:43 2024 -0500
+
+    Implemented gravity game
+
+commit b219cb7f0122cac37a218d1d8be376ffb29b7044
+Merge: 3eec7fc 1666a91
+Author: Vishnu Nair <vun2@cornell.edu>
+Date:   Thu Nov 28 12:04:21 2024 -0800
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 3eec7fc843813c289618cd16d885287a3d0c9539
+Author: Vishnu Nair <vun2@cornell.edu>
+Date:   Thu Nov 28 11:53:13 2024 -0800
+
+    commented tests
+    
+    Implemented Match feature like that of quizlet. (+100 lines of code!)
+    
+    Updated flascard.ml & flashcard.mli with functions as well as Driver.
+    
+    - match_game
+    - display_grid
+    - match_loop
+    
+    Uses unix to also output time taken for the entire game. Feature descriptions will be added on the doc
+
+commit 1666a914473977e64280ee782edf7a515a52a5eb
+Author: Vishnu Nair <vun2@cornell.edu>
+Date:   Thu Nov 28 11:47:03 2024 -0800
+
+    Implemented Match feature like that of quizlet. (+100 lines of code!)
+    
+    Updated flascard.ml & flashcard.mli with functions as well as Driver.
+    
+    - match_game
+    - display_grid
+    - match_loop
+    
+    Uses unix to also output time taken for the entire game. Feature descriptions will be added on the doc
+
+commit 8d626c7b469d09c383d182c0fa91872174797ba3
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Nov 27 22:07:12 2024 -0500
+
+    commented tests
+
+commit 6a91fe14f2d6fc7d656c29b34e5c5ccdf43f82ae
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Nov 27 21:32:56 2024 -0500
+
+    added functions from main to flashcard.ml
+
+commit 161c949c1304181f0ec260603ffe3ed8a64b9770
+Author: Vishnu Nair <vun2@cornell.edu>
+Date:   Wed Nov 27 15:39:31 2024 -0800
+
+    redid everything.
+    - loading csv
+    - creating batset from imported or new set
+    - preview flashcards
+    - edit set (adding new flashcards, editing current flashcards, deleting flashcards) with error handling
+    - saving csv immediately after change
+    - enable feature to switch sets while the program is running
+    * Note format of csv has now changed to:
+    Question1
+    Answer1
+    Question2
+    Answer2
+    
+    - quiz feature with the following:
+    Before starting, shuffle the list of flashcards randomly to ensure variability.
+    Each flashcard will be presented in turn. The user’s input is checked against the flashcard answer. Matches should ignore case and excess whitespace.
+    If a flashcard is answered correctly twice consecutively, it is removed from the quiz pool. If answered incorrectly or only once consecutively, it should be reinserted randomly back into the shuffled list.
+    After every incorrect answer, print the correct answer as feedback. For correct answers, print a friendly message encouraging the user.
+    Display the progress dynamically by informing the user how many flashcards remain in the set. Additionally, notify the user when they have completed 75%, 50%, or 25% of the set.
+
+commit d59683b3d4c5ee237e60ddc5acb09cddf5447eab
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Fri Nov 22 13:18:08 2024 -0800
+
+    Implemented bunch of main helper functions - requires testing and implementation still
+
+commit d2dc80c2bc7af6c017e441226213140564364e22
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Oct 30 16:27:45 2024 -0400
+
+    csv changes
+
+commit d8c4f41f8141221a6f08d17dd12c74514497ad6b
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Oct 30 16:26:07 2024 -0400
+
+    csv edits
+
+commit 497db2bb4b281124a3495650a39a7c24a7508425
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Oct 30 16:25:06 2024 -0400
+
+    changes to yaml
+
+commit 8d09d2b0c4799d319b0c7bbeb62b6ce555f5e64d
+Author: cc2784 <cc2784@cornell.edu>
+Date:   Wed Oct 30 16:21:41 2024 -0400
+
+    Update .YAML
+
+commit 118f70f4ea78aa77bfe079071379930efc1bfefa
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Wed Oct 30 13:43:34 2024 -0400
+
+    Added YAML for gallery submission
+
+commit b165083bc7eee2e0093ebefcf1d3e581ae5a7edc
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Wed Oct 30 13:41:24 2024 -0400
+
+    Implemented deliverable 1 AUTHORS and INSTALL
+
+commit 4d9178910b05f03f6b47d26ee28ec7c0b737e923
+Author: Kenza <kd497@cornell.edu>
+Date:   Mon Oct 28 23:31:15 2024 -0400
+
+    Implemented the test_final file:
+    Implemented test functions for create_new, add_question and edit_flashcard.
+    Wrote specifications for functions implemented in flashcard.ml.
+    Added error handling with try...with in main.ml for file operations.
+
+commit 39e73219df8ee59f8edb5827cefd9735df6c5ebb
+Author: Vishnu Nair <vun2@cornell.edu>
+Date:   Mon Oct 28 11:55:27 2024 -0400
+
+    Implement main driver for flashcard application
+    
+    - Wrote `initialize_flashcards` function to handle optional CSV import at startup.
+    - Created `preview_flashcards` function to display all flashcards or notify if empty.
+    - Developed `save_flashcards` function to save the current set of flashcards to a user-defined CSV file.
+    - Added `add_edit_load` function to enable adding, editing, and loading flashcards based on user input.
+    - Built `main_loop` function as the main interactive loop to handle user commands (`preview`, `save`, `add`, `quit`).
+    - Ensured error handling and user-friendly messages for invalid input, creating a robust user experience.
+
+commit c9072a2394191d4459ba1abce0eada93ffdd082e
+Author: Shanay Champaneri <sc3323@cornell.edu>
+Date:   Sun Oct 27 14:32:12 2024 -0400
+
+    Implemented load_csv, updated main.ml
+    
+    - Fixed main.ml to immediately detect incorrect inputs
+    - Added load_csv so users can add their own sets with name
+    - Refurbished main a little
+
+commit 635bb41ff74d1b66266b1c17ddfe7101a70add18
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Sun Oct 27 14:08:38 2024 -0400
+
+    Added edit flashcard
+
+commit 634f833ea0cdd769743b506f0f4c6f68bebcf2ed
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Sat Oct 26 22:16:05 2024 -0400
+
+    Implement create_new and add_question
+
+commit 900cd7f56bfb8fb212e8fac38e2c3912d9781fd5
+Author: Chhoeng <cc2784@cornell.edu>
+Date:   Sat Oct 26 20:39:41 2024 -0400
+
+    Test commit
+
+commit 8fc6da8826d4efd427ddb8018caf33d0521d902b
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Sat Oct 26 19:52:19 2024 -0400
+
+    created dune project
+
+commit c2c580117f3ea5f629e60093ab8951fa5dbb6989
+Author: Kenza <kd497@cornell.edu>
+Date:   Tue Oct 8 19:22:36 2024 -0400
+
+    Update README.md
+
+commit e30432ae8517637134c5ce147976fd3911d995e1
+Author: vun2 <nairvishnumail@gmail.com>
+Date:   Tue Oct 8 19:22:07 2024 -0400
+
+    Create README.md
+
+commit 04d69c5cb24fed8f4176d47a7f198398e192cb59
+Author: Kenza <kd497@cornell.edu>
+Date:   Tue Oct 8 19:21:57 2024 -0400
+
+    Update README.md
+
+commit bd8c8adc3429348c1cb5bf36cfe3f0adb6b8dcdf
+Author: cc2784 <cc2784@cornell.edu>
+Date:   Tue Oct 8 19:21:13 2024 -0400
+
+    Update README.md
+    
+    Add my name
+
+commit cd4b852996b8d63687c77e68ce0b9367ccb20cc2
+Author: sc3323 <sc3323@cornell.edu>
+Date:   Tue Oct 8 19:20:54 2024 -0400
+
+    Update README.md
+
+commit 4a38b02eecb52d71794f343d60a5eae52cdd8fee
+Author: sc3323 <sc3323@cornell.edu>
+Date:   Tue Oct 8 19:20:37 2024 -0400
+
+    Update README.md
+
+commit 073ec9df112e152329b098ccf2150a0ecb6c258c
+Author: Aryan Kumar <aryank1401@gmail.com>
+Date:   Tue Oct 8 19:20:06 2024 -0400
+
+    Added name and email
+
+commit 50e36f14739031ee4f733313ecfd68970c1397ec
+Author: Aryan Kumar <ak2488@cornell.edu>
+Date:   Tue Oct 8 19:08:05 2024 -0400
+
+    Initial commit

@@ -1,0 +1,38 @@
+---
+# Members of your group.
+group:
+  - name: Aryan Kumar
+    netid: ak2488
+  - name: Shanay Champaneri 
+    netid: sc3323
+  - name: Chhoeng Chau
+    netid: cc2784
+  - name: Vishnu Nair
+    netid: vun2
+  - name: Kenza Daoudi
+    netid: kd497
+# Your PM.
+pm:
+  name: Parth Sarkar
+  netid: ps679
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "CardCamel"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ak2488/CS3110_Final_Project"
+# Replace the URL with your own demo video.
+demo-video-url: "https://youtu.be/jkB9WCAvKm0"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  CardCamel is a terminal-based flashcard study app built for efficient, command-line learning. 
+  It empowers users to create, review, and organize flashcards with ease, keeping the study process 
+  focused and distraction-free. Users can add new flashcards by entering question-answer pairs, 
+  categorize them into custom decks, and access a variety of interactive features including randomized quizzes, 
+  a Match game, and a Gravity game for dynamic learning sessions.
+
+  CardCamel tracks progress by logging correct and incorrect answers, allowing users to revisit 
+  challenging cards and monitor their improvement over time. With an intuitive text-based interface, 
+  users interact seamlessly through simple commands to add, organize, and study cards, making it
+  easy to maintain a study rhythm. The app also includes features to edit and delete flashcards, 
+  import flashcard sets from CSV files, and view detailed progress reports.
